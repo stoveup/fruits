@@ -1,3 +1,2 @@
 def favourite_fruit():
-    // merge issues resolved: added all new fruits to list
-    return ["Apple", "mango","watermelon", "lemon"]
+    return ["Mango", "Strawberry","Apple", "mango","watermelon", "lemon"]
